@@ -1,0 +1,11 @@
+# basic options
+title: Miguel Gonzalez astrosite
+author: Miguel Gonzalez-Bolivar
+email: miguel-angel.gonzalez-boliv@hdr.mq.edu.au
+description: PhD Astro projects site 
+#twitter_username: jekyllrb
+github_username:  miguelglezb
+
+# Build settings
+markdown: kramdown
+theme: minima
