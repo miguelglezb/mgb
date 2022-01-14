@@ -7,6 +7,6 @@ description: PhD Astro projects site
 github_username:  miguelglezb
 
 # Build settings
-markdown: GFM
+markdown: kramdown
 theme: minima
 
