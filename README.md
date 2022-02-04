@@ -1,4 +1,6 @@
 # mgb
 Personal webpage for PhD related projects
 
-<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/LgWX2sPZQsE/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
+<video src="https://github.com/miguelglezb/mgb/blob/main/CE_movie.mp4" controls="controls" style="max-width: 730px;">
+</video>
