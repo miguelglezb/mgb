@@ -10,7 +10,7 @@ Personal webpage for PhD related projects
     <span class="dropdown-caret"></span>
   </summary>
 
-  <video src="https://raw.githubusercontent.com/miguelglezb/mgb/main/kappa_ia_talk.mp4" data-canonical-src="https://raw.githubusercontent.com/miguelglezb/mgb/main/kappa_ia_talk.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+  <video src="https://raw.githubusercontent.com/miguelglezb/mgb/main/rho-R.mp4" data-canonical-src="https://raw.githubusercontent.com/miguelglezb/mgb/main/rho-R.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 
   </video>
 </details>
