@@ -1,4 +1,4 @@
-# mgb
+
 Personal webpage for PhD related projects
 
 <details open="" class="details-reset border rounded-2">
