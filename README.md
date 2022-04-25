@@ -1,7 +1,7 @@
 
 Personal webpage for PhD related projects
 
-<a {font-size: 100px} href="http://www.google.com"> Simulations </a>
+< {font-size: 100px} a href="http://www.google.com"> Simulations </a>
 
 
 <details open="" class="details-reset border rounded-2">
