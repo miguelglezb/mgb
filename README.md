@@ -1,11 +1,7 @@
 
 Personal webpage for PhD related projects
 
-<button class="btn btn-outline"
-                  type="button"
-                 onclick="window.open('https://www.google.com', '_blank')"> 
-            google
-          </button>
+<a href="http://www.something.com"> Something </a>
 
 
 <details open="" class="details-reset border rounded-2">
