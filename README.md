@@ -4,7 +4,7 @@ Personal webpage for PhD related projects
 <button class="btn btn-outline"
                   type="button"
                  onclick="window.open('https://www.google.com', '_blank')"> 
-            Chat Kami
+            google
           </button>
 
 
