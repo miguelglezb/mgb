@@ -1,7 +1,7 @@
 
 Personal webpage for PhD related projects
 
-<a href="http://www.google.com" style="font-size: 20px; text-decoration: none"> Simulations </a>
+<a href="https://github.com/miguelglezb/mgb/blob/main/_posts/2022-01-15-first_post.md" style="font-size: 20px; text-decoration: none"> Simulations </a>
 
 
 <details open="" class="details-reset border rounded-2">
