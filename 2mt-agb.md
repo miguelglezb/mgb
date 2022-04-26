@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+## Welcome to another page
+
 
 <details open="" class="details-reset border rounded-2">
   <summary class="px-3 py-2 border-bottom">
