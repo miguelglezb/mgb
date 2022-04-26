@@ -1,7 +1,7 @@
 
 Personal webpage for PhD related projects
 
-Simulations for Gonzalez-Bolivar+2022A(./2mt-agb.md).
+Simulations for Gonzalez-Bolivar+2022A(./2mt-agb.html).
 
 <details open="" class="details-reset border rounded-2">
   <summary class="px-3 py-2 border-bottom">
