@@ -1,8 +1,7 @@
 
 Personal webpage for PhD related projects
 
-<a href="https://github.com/miguelglezb/mgb/_posts/2022-01-15-first_post.md"> Simulations </a>
-
+Simulations for Gonzalez-Bolivar+2022A(./.html).
 
 <details open="" class="details-reset border rounded-2">
   <summary class="px-3 py-2 border-bottom">
