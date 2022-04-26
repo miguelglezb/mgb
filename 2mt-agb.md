@@ -1,8 +1,5 @@
----
-layout: default
----
+Movies of the simulations analysed on paper I. First three movies show the ideal gas, ideal gas plus radiation and the tabulated equations of state for a 2 solar mass thermally pulsating AGB star orbiting a 0.6 solar mass companion.
 
-## Welcome to another page
 
 
 <details open="" class="details-reset border rounded-2">
@@ -10,11 +7,11 @@ layout: default
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
     <path fill-rule="evenodd" d="..."></path>
 </svg>
-    <span aria-label="kappa_ia_talk.mp4" class="m-1">kappa_ia_talk.mp4</span>
+    <span aria-label="anim_Ihi.mp4" class="m-1">anim_Ihi.mp4</span>
     <span class="dropdown-caret"></span>
   </summary>
 
-  <video src="https://raw.githubusercontent.com/miguelglezb/mgb/main/kappa_ia_talk.mp4" data-canonical-src="https://raw.githubusercontent.com/miguelglezb/mgb/main/kappa_ia_talk.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+  <video src="https://raw.githubusercontent.com/miguelglezb/mgb/main/anim_Ihi.mp4" data-canonical-src="https://raw.githubusercontent.com/miguelglezb/mgb/main/anim_Ihi.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 
   </video>
 </details>
