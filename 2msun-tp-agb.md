@@ -7,7 +7,7 @@ Movies of the simulations analysed on paper I. First three movies show the ideal
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
     <path fill-rule="evenodd" d="..."></path>
 </svg>
-    <span aria-label="anim_Ihi.mp4" class="m-1">anim_Ihi.mp4</span>
+    <span aria-label="anim_Ihi.mp4" class="m-1">Ideal gas EoS (I-hi) density render movie</span>
     <span class="dropdown-caret"></span>
   </summary>
 
