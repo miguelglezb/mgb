@@ -16,7 +16,8 @@ Movies of the simulations analysed on paper I. First three movies show the ideal
   </video>
 </details>
 
-&nbsp  
+<p>&nbsp;</p>
+
 <details open="" class="details-reset border rounded-2">
   <summary class="px-3 py-2 border-bottom">
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
