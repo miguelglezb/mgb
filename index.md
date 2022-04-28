@@ -1,6 +1,6 @@
 ---
 geometry: "left=2cm, right=2cm, top=4cm, bottom=10cm"
-
+---
 
 Physics PhD student - Macquarie University
 
@@ -11,4 +11,3 @@ Physics PhD student - Macquarie University
 
 [Simulations for Gonzalez-Bolivar+2022A](./2msun-tp-agb.html).
 
----
