@@ -1,6 +1,7 @@
 ---
-geometry: "left=2cm, right=2cm, top=4cm, bottom=10cm"
----
+geometry: margin=30mm
+...
+
 
 Physics PhD student - Macquarie University
 
