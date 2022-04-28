@@ -1,17 +1,14 @@
----
-geometry: margin=30mm
-...
 
+p {
+  text-align: justify;
+  text-justify: inter-character;
+}
 
 Physics PhD student - Macquarie University
 
 ### Astrophysics <code>&#124;</code> Hydrodynamical simulations <code>&#124;</code> Stellar collisions
 
 
-p {
-  text-align: justify;
-  text-justify: inter-character;
-}
 
 I'm a 3rd year PhD student on Macquarie University located on Sydney, Australia. My research is on a particular phase in stellar binary systems called common envelope (CE). 
 
