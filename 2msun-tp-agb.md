@@ -16,7 +16,7 @@ Movies of the simulations analysed on paper I. First three movies show the ideal
   </video>
 </details>
 
-<p>&nbsp;</p>
+<p>&nbsp;</p>           
 
 <details open="" class="details-reset border rounded-2">
   <summary class="px-3 py-2 border-bottom">
