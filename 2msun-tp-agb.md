@@ -1,4 +1,4 @@
-[back](./)
+[Home](./)
 
 Movies of the simulations analysed on paper I. First three movies show the ideal gas, ideal gas plus radiation and the tabulated equations of state for a 2 solar mass thermally pulsating AGB star orbiting a 0.6 solar mass companion.
 
