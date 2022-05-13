@@ -14,5 +14,5 @@ Physics PhD student - Macquarie University
 
 <img src="photo.jpeg" alt="Me" width="250"/>
 
-[Simulations for Gonzalez-Bolivar+2022A](./2msun-tp-agb.html).
+[Simulations](./simulations.html).
 
