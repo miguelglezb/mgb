@@ -12,7 +12,7 @@ Physics PhD student - Macquarie University
 
 <p style="text-align: justify">The outcome of these interactions are of great interest for astronomers, since they may explain the existence of objects such as assymetric planetary nebulae or gravitational waves sources.</p>
 
-<img src="photo.jpeg" alt="Me" width="300"/>
+<img src="photo.jpeg" alt="Me" width="250"/>
 
 [Simulations for Gonzalez-Bolivar+2022A](./2msun-tp-agb.html).
 
