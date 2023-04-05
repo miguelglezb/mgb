@@ -10,11 +10,11 @@ Main
   |
   |
   | 
-  ----> Gonzalez-Bolivar+2022A
+  ----> Gonzalez-Bolivar+2022
   |
   |
   | 
-  ----> Gonzalez-Bolivar+2023B
+  ----> Gonzalez-Bolivar+2023
 
 ------> About
 
