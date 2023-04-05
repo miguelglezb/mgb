@@ -28,7 +28,7 @@ First three movies show the ideal gas, ideal gas plus radiation and the tabulate
     <svg aria-hidden="true" viewBox="0 0 8 8" version="1.1" data-view-component="true" height="8" width="8" class="octicon octicon-device-camera-video">
     <path fill-rule="evenodd" d="..."></path>
 </svg>
-    <span aria-label="kappa_4M.mp4" class="m-1">4 Msun (MESA) Bowen opacity render movi</span>
+    <span aria-label="kappa_4M.mp4" class="m-1">4 Msun (MESA) Bowen opacity render movie</span>
     <span class="dropdown-caret"></span>
   </summary>
 
