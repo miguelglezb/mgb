@@ -1,4 +1,4 @@
-[Home](./)
+[Home](https://miguelglezb.github.io/mgb)
 
 Movies of the simulations analysed on paper II. First movie is the kappa render for the binary with the 2 solar mass donor. Top panel is the  
 
