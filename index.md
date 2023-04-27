@@ -4,7 +4,7 @@ Physics PhD student - Macquarie University
 
 ### Astrophysics <code>&#124;</code> Hydrodynamical simulations <code>&#124;</code> Stellar collisions
 
-[Simulations](./simulations/simulations.html). 
+[Simulations](./simulations.html). 
 
 <p style="text-align: justify">I'm a 3rd year PhD student on Macquarie University located on Sydney, Australia. My research is on a particular phase in stellar binary systems called common envelope (CE).</p>
 
