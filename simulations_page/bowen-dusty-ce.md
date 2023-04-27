@@ -1,6 +1,6 @@
 [Home](https://miguelglezb.github.io/mgb)
 
-Movies of the simulations analysed on paper II. First movie is the kappa render for the binary with the 2 solar mass donor. Top panel is the  
+Movies of the simulations analysed on paper II. First movie is the kappa render for the binary with the $2 M_{\odot}$. Top panel is the 
 
 
 First three movies show the ideal gas, ideal gas plus radiation and the tabulated equations of state for a 2 solar mass thermally pulsating AGB star orbiting a 0.6 solar mass companion.
